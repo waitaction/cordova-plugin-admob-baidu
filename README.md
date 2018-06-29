@@ -1,32 +1,23 @@
 # Baidu Admob for MSSP / Cordova Plugin
 
-[![release](https://img.shields.io/badge/release-1.0.8-blue.svg)](https://github.com/liangyongxiong/cordova-plugin-admob-baidu/releases)
-[![platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20Android-lightgrey.svg)](https://github.com/liangyongxiong/cordova-plugin-admob-baidu)
-[![qq](https://img.shields.io/badge/contact-qq-blue.svg)](http://wpa.qq.com/msgrd?v=3&uin=331338391&menu=yes)
+[![release](https://img.shields.io/badge/release-1.0.8-blue.svg)](https://github.com/waitaction/cordova-plugin-admob-baidu/releases)
+[![platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20Android-lightgrey.svg)](https://github.com/waitaction/cordova-plugin-admob-baidu)
 
 通过 Javascript 调用百度广告联盟（MSSP）SDK 接口，渲染广告内容
 
 官方 SDK 下载：
 
-+ [Android 通用版](https://baidu-ssp.gz.bcebos.com/mssp/sdk/BaiduMobAds_MSSP_bd_SDK_android_v5.6.zip)
++ [Android 通用版](https://baidu-ssp.gz.bcebos.com/mssp/sdk/BaiduMobAds_MSSP_bd_SDK_android_v5.7.zip)
 
 + [iOS 通用版](https://baidu-ssp.gz.bcebos.com/mssp/sdk/BaiduMobAds_MSSP_bd_SDK_iOS_v4.5.zip)
 
-## NPM
-https://www.npmjs.com/package/cordova-plugin-admob-baidu
 
 ## Installation
-
-通过 Cordova Plugins 安装
-
-```shell
-$ cordova plugin add cordova-plugin-admob-baidu
-```
 
 通过 URL 安装
 
 ```shell
-$ cordova plugin add https://github.com/liangyongxiong/cordova-plugin-admob-baidu.git
+$ cordova plugin add https://github.com/waitaction/cordova-plugin-admob-baidu.git
 ```
 
 ## Usage
@@ -123,14 +114,9 @@ cordova.BaiduAdMob.FeedsAd.url({
 ## FAQ
 Empty
 
-## Support
-+ [QQ](http://wpa.qq.com/msgrd?v=3&uin=331338391&menu=yes)
-+ [WeChat](https://raw.githubusercontent.com/liangyongxiong/liangyongxiong.github.com/master/weixin.jpg)
-+ [Email](mailto:331338391@qq.com)
-
 ## Contribute
-Please contribute! Look at the [issues](https://github.com/liangyongxiong/cordova-plugin-admob-baidu/issues).
+Please contribute! Look at the [issues](https://github.com/waitaction/cordova-plugin-admob-baidu/issues).
 
 ## License
-This project is licensed under [MIT](https://github.com/liangyongxiong/cordova-plugin-admob-baidu/blob/master/LICENSE).
+This project is licensed under [MIT](https://github.com/waitaction/cordova-plugin-admob-baidu/blob/master/LICENSE).
 
