@@ -89,7 +89,7 @@ public class BaiduAdMob extends CordovaPlugin {
                         ft.remove(bannerFragment);
                         ft.commitAllowingStateLoss();
                     }
-                    ViewGroup group = activity.findViewById(android.R.id.content);
+                    ViewGroup group = (ViewGroup) activity.findViewById(android.R.id.content);
                     if (group != null) {
                         group.removeView(contentView);
                     }
